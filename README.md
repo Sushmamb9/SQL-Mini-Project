@@ -1,5 +1,8 @@
 # SQL-Mini-Project
 
+Check out the jupyter notebook here: https://jovian.ai/8smbhavikatti/sql#C58
+
+![Image](https://i.imgur.com/svR4Hw7.png)
 ## Introduction: 
 Structure Query Language(SQL) is a database query language used for storing and managing data in Relational DBMS.
 
